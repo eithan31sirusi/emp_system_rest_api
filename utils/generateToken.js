@@ -10,4 +10,5 @@ const generateToken = (id, userData, time = '30d') => {
     })
 }
 
+
 export default generateToken;
