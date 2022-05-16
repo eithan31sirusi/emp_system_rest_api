@@ -14,8 +14,8 @@ frontend/node_modules
 
 # production
 /frontend/build
-front-test
-/front-test
+front_test
+/front_test
 app-mobile
 /app-mobile
 
